@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Blgn94 (Bilguun)</h1>
 <h3 align="center">Student at MUIS, SE🌟.</h3>
+
 <br>
+
 ### 👨🏻‍💻 &nbsp;About Me
+
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at the National University of Mongolia.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and to be developer.\
