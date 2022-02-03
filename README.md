@@ -2,7 +2,6 @@
 <h3 align="center">Student at MUIS, SE🌟.</h3>
 
 <br>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
