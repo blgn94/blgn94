@@ -1,7 +1,7 @@
-<h2>Hey there! I'm Blgn94</h2>
-
+<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<br>
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at the National University of Mongolia.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and to be developer.\
@@ -51,11 +51,6 @@
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
-
-<br>
-
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
