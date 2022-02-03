@@ -1,10 +1,4 @@
-### Hi there 👋
-
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width='40' align="left"/><h2>Hey there! I'm Blgn94</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
