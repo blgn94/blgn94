@@ -25,7 +25,8 @@
 </a>
 </p>
 
-<p><img align="right" src="https://github.com/blgn94/blgn94/blob/main/animation_500_kxa883sd.gif" alt="night coding" /></p>
+<img align="right" src="https://github.com/blgn94/blgn94/blob/main/gif1.gif" alt="iu" width="300px" heigth="300px"/>
+<!-- <p><img align="right" src="https://github.com/blgn94/blgn94/blob/main/animation_500_kxa883sd.gif" alt="night coding" /></p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me | Надтай холбогдох
 
@@ -82,5 +83,7 @@
       <img src="https://crackshash.com/wp-content/uploads/2020/08/Adobe_Premiere_Pro_CC_icon-768x749.png" alt="premiere pro" width="40" height="40"/>
     </a>
 </p>
+<!-- 
+<img align="right" src="https://github.com/blgn94/blgn94/blob/main/gif1.gif" alt="iu" width="400px" heigth="400px"/> -->
 
 <br>
