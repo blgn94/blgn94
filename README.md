@@ -13,7 +13,8 @@
 ✉️ &nbsp;You can shoot me an email at bilguun.bb94@gmail.com! I'll try to respond as soon as I can.\
 ⚡ Fun fact :- food and anime are the reasons to live.
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/blgn94/blgn94/blob/main/snakeGif.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -24,7 +25,7 @@
 </a>
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="night coding" /></p>
+<p><img align="right" src="https://github.com/blgn94/blgn94/blob/main/animation_500_kxa883sd.gif" alt="night coding" /></p>
 
 ### 🤝🏻 &nbsp;Connect with Me | Надтай холбогдох
 
