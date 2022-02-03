@@ -13,6 +13,8 @@
 ✉️ &nbsp;You can shoot me an email at bilguun.bb94@gmail.com! I'll try to respond as soon as I can.\
 ⚡ Fun fact :- food and anime are the reasons to live.
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -50,8 +52,6 @@
 <p align="right"> 
   <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Blgn94&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw"/> 
 </p>
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
