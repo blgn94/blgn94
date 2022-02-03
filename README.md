@@ -6,11 +6,11 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at the National University of Mongolia.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and to be developer.\
+🌱 &nbsp;I’m currently learning Web Development and other programming languages.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Editing videos as hobbies and playing basketball.\
 💬 &nbsp;Feel free to make conversation.\
 ✉️ &nbsp;You can shoot me an email at bilguun.bb94@gmail.com! I'll try to respond as soon as I can.\
-⚡ Fun fact :- food and anime are the reasons to live.\
+⚡ Fun fact :- food and anime are the reasons to live.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -37,7 +37,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
@@ -45,13 +45,6 @@
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-<!-- - ⚡ Fun fact :- food and anime are the reasons to live. -->
 
 <br>
 <br>
@@ -101,17 +94,3 @@
       height="40" /> </a> </p>
 
 <br>
-<!--
-**blgn94/blgn94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
