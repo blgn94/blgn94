@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Blgn94 (Bilguun)</h1>
+<h1 align="center">Hi, Сайн уу? 👋, I'm Blgn94 (Билгүүн, Bilguun)</h1>
 <h3 align="center">Student at MUIS, SE🌟.</h3>
 
 <br>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me | Миний тухай
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at the National University of Mongolia.\
@@ -24,7 +24,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="night coding" /></p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me | Надтай холбогдох
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bilguun-tuvshindelger-5795b4230/" target="blank">
@@ -41,9 +41,9 @@
   </a>
   <a href="https://codeforces.com/profile/blgn94" target="blank">
     <img align="center" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" alt="codeforces" height="30" width="40"/>
-  </a>
+  </a> &nbsp;
   <a href="https://www.youtube.com/channel/UCN5p7qVgXwFvGv6d-XgH7tA/videos" target="blank">
-    <img align="center" src="https://maxcdn.icons8.com/Share/icon/Media_Controls/youtube_play1600.png" alt="youtube" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"     alt="youtube" height="30" width="40"/>
   </a>
 </p>
 
