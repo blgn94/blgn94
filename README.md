@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me | Миний тухай
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science at the National University of Mongolia.\
+🎓 &nbsp;I'm currently studying Software engineer at the National University of Mongolia.\
 🌱 &nbsp;I’m currently learning Web Development and other programming languages.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Editing videos as hobbies and playing basketball.\
 💬 &nbsp;Feel free to make conversation.\
