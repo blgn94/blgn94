@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Сайн уу? 👋, I'm Blgn94 (Билгүүн, Bilguun)</h1>
-<h3 align="center">Student at MUIS, SE🌟.</h3>
+<h3 align="center">Student at NUM(MUIS), SE🌟.</h3>
 
 <br>
 
