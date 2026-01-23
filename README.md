@@ -1,10 +1,17 @@
-<h1 align="center">👋 Hey, It's Bilguun (BG)</h1>
-
 ###
 
 <div align="center">
+  <h1 align="center">👋 Hey, It's Bilguun (BG)</h1>
   <img height="200" src="https://media.tenor.com/OcmcdA8l8NoAAAAj/skeleton-sword.gif"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -127,13 +134,5 @@
     alt="streak graph"
   />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
