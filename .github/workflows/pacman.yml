@@ -14,14 +14,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: platane/snk@v3
+      - name: Generate Pacman SVG
+        uses: platane/snk@v3
         with:
           github_user_name: blgn94
+          branch: output
           outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg?palette=github-dark
-
+            pacman-contribution-graph.svg
+            pacman-contribution-graph-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
