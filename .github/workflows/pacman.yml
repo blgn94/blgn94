@@ -14,13 +14,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman SVG
-        uses: platane/snk@v3
+      - name: Generate pacman contribution graph svgs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: blgn94
-          branch: output
-          outputs: |
-            pacman-contribution-graph.svg
-            pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
