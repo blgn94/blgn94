@@ -7,8 +7,6 @@
   <img height="200" src="https://media.tenor.com/OcmcdA8l8NoAAAAj/skeleton-sword.gif"  />
   <img height="200" src="https://media.tenor.com/OcmcdA8l8NoAAAAj/skeleton-sword.gif"  />
   <img height="200" src="https://media.tenor.com/OcmcdA8l8NoAAAAj/skeleton-sword.gif"  />
-  <img height="200" src="https://media.tenor.com/OcmcdA8l8NoAAAAj/skeleton-sword.gif"  />
-  <img height="200" src="https://media.tenor.com/OcmcdA8l8NoAAAAj/skeleton-sword.gif"  />
 </div>
 
 ###
