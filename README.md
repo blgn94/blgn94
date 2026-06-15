@@ -14,7 +14,8 @@
 - <img src="https://cdn.prod.website-files.com/652df1af79efc76fe71559ed/697732172d50fdb180ad585a_CallPro_logo_the%20cloud%20icon.png" width="16" /> [Callpro SDK](https://www.callpro.mn/service/sdk) - a business communication platform powered by CallPro
 - <img src="https://www.tuslay.mn/favicon.png" width="16" /> [Tuslay](https://www.tuslay.mn) - the social automation service
 - <img src="https://www.tumentravel.com/brand/dark-logo.png" width="16" /> [TumenTravel](https://www.tumentravel.com) - a travel agency platform
-- <img src="https://www.fitpaltrainer.com/logo.png" width="16" /> [FitPal Trainer](https://www.fitpaltrainer.com) - the cloud coach based on voices
+- <img src="https://www.fitpaltrainer.com/logo.png" width="16" /> [FitPal Trainer](https://www.fitpaltrainer.com) - a cloud coach based on voices
+- <img src="https://www.edupath.mn/logo.png" width="16" /> [EduPath](https://www.edupath.mn) - a educational gate to academic world
 
 ###
 
