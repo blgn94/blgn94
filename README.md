@@ -7,14 +7,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ## Independent, collaborative, and company project contributions
 
 - 🤙🏻 [Lime Mongolia](https://lime.mn) - a Mongolian virtual mobile network operator powered by CallPro Labs
@@ -23,6 +15,14 @@
 - 🚀 [Tuslay](https://www.tuslay.mn) - the social automation service
 - 🌏 [TumenTravel](https://www.tumentravel.com) - a travel agency platform
 - 🏃🏻 [FitPal Trainer](https://www.fitpaltrainer.com) - the cloud coach based on voices
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blgn94/blgn94/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
