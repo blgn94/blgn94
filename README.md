@@ -18,8 +18,8 @@
 ## Independent, collaborative, and company project contributions
 
 - 🤙🏻 [Lime Mongolia](https://lime.mn) - a Mongolian virtual mobile network operator powered by CallPro Labs
-- 🖥️ [Callpro Teams](https://www.callpro.mn/service/teams) - a communications SDK powered by CallPro
-- 🖥️ [Callpro SDK](https://www.callpro.mn/service/sdk) - a business communication platform powered by CallPro
+- 💻 [Callpro Teams](https://www.callpro.mn/service/teams) - a communications SDK powered by CallPro
+- ☎️ [Callpro SDK](https://www.callpro.mn/service/sdk) - a business communication platform powered by CallPro
 - 🚀 [Tuslay](https://www.tuslay.mn) - social automation service
 - 🌏 [TumenTravel](https://www.tumentravel.com) - traveling agency
 - 🏃🏻 [FitPal Trainer](https://www.fitpaltrainer.com) - traveling agency
