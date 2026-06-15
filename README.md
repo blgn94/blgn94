@@ -9,7 +9,7 @@
 
 ## Independent, collaborative, and company project contributions
 
-- 🤙🏻 [Lime Mongolia](https://lime.mn) - a Mongolian virtual mobile network operator powered by CallPro Labs
+- <img src="https://play-lh.googleusercontent.com/_9PoRrCmRiMNqEE65RLp_4Qo3Ln3gQJzyMMCsaMCMSo4z54SDaaPGY4ATwrvCnt7kpE=w240-h480-rw" width="16" /> [Lime Mongolia](https://lime.mn) - a Mongolian virtual mobile network operator powered by CallPro Labs
 - 💻 [Callpro Teams](https://www.callpro.mn/service/teams) - a communications SDK powered by CallPro
 - ☎️ [Callpro SDK](https://www.callpro.mn/service/sdk) - a business communication platform powered by CallPro
 - 🚀 [Tuslay](https://www.tuslay.mn) - the social automation service
