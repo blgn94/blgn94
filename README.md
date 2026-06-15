@@ -11,10 +11,10 @@
 
 - <img src="https://play-lh.googleusercontent.com/_9PoRrCmRiMNqEE65RLp_4Qo3Ln3gQJzyMMCsaMCMSo4z54SDaaPGY4ATwrvCnt7kpE=w240-h480-rw" width="16" /> [Lime Mongolia](https://lime.mn) - a Mongolian virtual mobile network operator powered by CallPro Labs
 - <img src="https://play-lh.googleusercontent.com/aW3PD5RA1wbEihAi9risEZHj-Wqa8jdGZsR88rBW6PsalFEcOWkW0WJRIjhJZCLdqec" width="16" /> [Callpro Teams](https://www.callpro.mn/service/teams) - a communications SDK powered by CallPro
-- ☎️ [Callpro SDK](https://www.callpro.mn/service/sdk) - a business communication platform powered by CallPro
-- 🚀 [Tuslay](https://www.tuslay.mn) - the social automation service
-- 🌏 [TumenTravel](https://www.tumentravel.com) - a travel agency platform
-- 🏃🏻 [FitPal Trainer](https://www.fitpaltrainer.com) - the cloud coach based on voices
+- <img src="https://cdn.prod.website-files.com/65463be9440c1238e75aa472/699bbbfc5994e5547032058c_Open%20Graph%20Img.png" width="16" /> [Callpro SDK](https://www.callpro.mn/service/sdk) - a business communication platform powered by CallPro
+- <img src="https://www.tuslay.mn/favicon.png" width="16" /> [Tuslay](https://www.tuslay.mn) - the social automation service
+- <img src="https://www.tumentravel.com/brand/dark-logo.png" width="16" /> [TumenTravel](https://www.tumentravel.com) - a travel agency platform
+- <img src="https://www.fitpaltrainer.com/logo.png" width="16" /> [FitPal Trainer](https://www.fitpaltrainer.com) - the cloud coach based on voices
 
 ###
 
